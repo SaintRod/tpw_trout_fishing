@@ -1,0 +1,383 @@
+"search","stocking.location","city","total","stocking date num","stocking date","orig","orig_lat","orig_lon","state","dest_lat","dest_lon","distance (mi)","drive time (hrs)"
+"Ablon Park Pond, Garland, TX","Ablon Park Pond","Garland",2250,"date1","01/30/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.83709","-96.57484",18,0.42
+"American Legion Park Pond, Missouri City, TX","American Legion Park Pond","Missouri City",3200,"date1","01/03/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.58652","-95.5534",277,4.31
+"American Legion Park Pond, Missouri City, TX","American Legion Park Pond","Missouri City",3200,"date2","01/30/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.58652","-95.5534",277,4.31
+"American Legion Park Pond, Missouri City, TX","American Legion Park Pond","Missouri City",3200,"date3","02/20/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.58652","-95.5534",277,4.31
+"Amsler Park, McGregor, TX","Amsler Park","McGregor",1200,"date1","12/12/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.44368","-97.40874",127,2.14
+"Amsler Park, McGregor, TX","Amsler Park","McGregor",1200,"date2","01/30/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.44368","-97.40874",127,2.14
+"Ascarate, El Paso, TX","Ascarate","El Paso",6000,"date1","12/04/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.77927","-106.44677",639,9.26
+"Ascarate, El Paso, TX","Ascarate","El Paso",6000,"date2","01/19/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.77927","-106.44677",639,9.26
+"Ascarate, El Paso, TX","Ascarate","El Paso",6000,"date3","02/05/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.77927","-106.44677",639,9.26
+"Ascarate, El Paso, TX","Ascarate","El Paso",6000,"date4","02/20/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.77927","-106.44677",639,9.26
+"Bailey Lake, Burleson, TX","Bailey Lake","Burleson",1600,"date1","12/02/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.56313","-97.32166",50,0.93
+"Bailey Lake, Burleson, TX","Bailey Lake","Burleson",1600,"date2","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.56313","-97.32166",50,0.93
+"Bandera City Park Lake, Bandera, TX","Bandera City Park Lake","Bandera",578,"date1","12/17/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.78506","-99.14003",331,5.48
+"Bane Park Lake, Houston, TX","Bane Park Lake","Houston",1071,"date1","01/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.87177","-95.54251",251,3.89
+"Bates Allen Park 2, Rosenberg, TX","Bates Allen Park 2","Rosenberg",1000,"date1","01/03/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Beal Park Lake, Midland, TX","Beal Park Lake","Midland",1500,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.96628","-102.14163",344,5.16
+"Beal Park Lake, Midland, TX","Beal Park Lake","Midland",1500,"date2","01/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.96628","-102.14163",344,5.16
+"Beal Park Lake, Midland, TX","Beal Park Lake","Midland",1500,"date3","02/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.96628","-102.14163",344,5.16
+"Bear Creek Park, Keller, TX","Bear Creek Park","Keller",1750,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.9252","-97.24885",36,0.76
+"Bear Creek Park, Keller, TX","Bear Creek Park","Keller",1750,"date2","01/25/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.9252","-97.24885",36,0.76
+"Beaver Pond - Cypress Creek Park, Cypress, TX","Beaver Pond - Cypress Creek Park","Cypress",3500,"date1","01/14/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.95483","-95.63208",250,3.89
+"Ben Gill Park Pond, Terrell, TX","Ben Gill Park Pond","Terrell",750,"date1","11/26/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.7408","-96.29008",37,0.71
+"Bethany Park Pond C, Allen, TX","Bethany Park Pond C","Allen",3200,"date1","12/09/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.08541","-96.66917",17,0.42
+"Blanco State Park #4, Blanco, TX","Blanco State Park #4","Blanco",4000,"date1","12/06/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.08902","-98.41736",256,4.24
+"Blanco State Park #4, Blanco, TX","Blanco State Park #4","Blanco",4000,"date2","12/20/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.08902","-98.41736",256,4.24
+"Blanco State Park #4, Blanco, TX","Blanco State Park #4","Blanco",4000,"date3","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.08902","-98.41736",256,4.24
+"Blanco State Park #4, Blanco, TX","Blanco State Park #4","Blanco",4000,"date4","01/30/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.08902","-98.41736",256,4.24
+"Blue Hole Park Lake, Georgetown, TX","Blue Hole Park Lake","Georgetown",1250,"date1","01/15/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.64285","-97.68158",180,2.88
+"Blue Ridge Park Pond, Missouri City, TX","Blue Ridge Park Pond","Missouri City",700,"date1","01/02/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.60393","-95.52692",272,4.21
+"Bluestem Pond, Somerville, TX","Bluestem Pond","Somerville",500,"date1","12/17/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.3432","-96.60635",205,3.63
+"Bob Sandlin State Park, Mt. Pleasant, TX","Bob Sandlin State Park","Mt. Pleasant",2500,"date1","12/19/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.14949","-94.96141",121,1.91
+"Bob Sandlin State Park, Mt. Pleasant, TX","Bob Sandlin State Park","Mt. Pleasant",2500,"date2","01/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.14949","-94.96141",121,1.91
+"Bob Sandlin State Park, Mt. Pleasant, TX","Bob Sandlin State Park","Mt. Pleasant",2500,"date3","02/18/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.14949","-94.96141",121,1.91
+"Boerne City, Boerne, TX","Boerne City","Boerne",1000,"date1","12/04/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.7048","-98.6836",298,4.78
+"Borden City Lake, Borden, TX","Borden City Lake","Borden",500,"date1","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.68969","-96.69175",251,4.42
+"Bradfield Pond 2, Buda, TX","Bradfield Pond 2","Buda",1000,"date1","12/20/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.0871622","-97.8325866",221,3.53
+"Breshears Lake, Levelland, TX","Breshears Lake","Levelland",1600,"date1","12/03/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.58733","-102.37855",383,5.88
+"Bridge Bob's Pond, Wood, TX","Bridge Bob's Pond","Wood",1250,"date1","02/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Buena Vista Park Lake*, Waco, TX","Buena Vista Park Lake*","Waco",896,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57203","-97.07502",106,1.78
+"Buena Vista Park Lake*, Waco, TX","Buena Vista Park Lake*","Waco",896,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57203","-97.07502",106,1.78
+"Buena Vista Park Lake*, Waco, TX","Buena Vista Park Lake*","Waco",896,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57203","-97.07502",106,1.78
+"Buena Vista Park Lake*, Waco, TX","Buena Vista Park Lake*","Waco",896,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57203","-97.07502",106,1.78
+"Buena Vista Park Lake*, Waco, TX","Buena Vista Park Lake*","Waco",896,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57203","-97.07502",106,1.78
+"Buena Vista Park Lake*, Waco, TX","Buena Vista Park Lake*","Waco",896,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57203","-97.07502",106,1.78
+"Buena Vista Park Lake*, Waco, TX","Buena Vista Park Lake*","Waco",896,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57203","-97.07502",106,1.78
+"Buena Vista Park Lake*, Waco, TX","Buena Vista Park Lake*","Waco",896,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57203","-97.07502",106,1.78
+"Buescher State Park, Smithville, TX","Buescher State Park","Smithville",2000,"date1","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.00868","-97.16005",246,3.87
+"Buescher State Park, Smithville, TX","Buescher State Park","Smithville",2000,"date2","01/02/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.00868","-97.16005",246,3.87
+"Bullfrog Pond*, Austin, TX","Bullfrog Pond*","Austin",896,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.26759","-97.74299",207,3.32
+"Bullfrog Pond*, Austin, TX","Bullfrog Pond*","Austin",896,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.26759","-97.74299",207,3.32
+"Bullfrog Pond*, Austin, TX","Bullfrog Pond*","Austin",896,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.26759","-97.74299",207,3.32
+"Bullfrog Pond*, Austin, TX","Bullfrog Pond*","Austin",896,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.26759","-97.74299",207,3.32
+"Bullfrog Pond*, Austin, TX","Bullfrog Pond*","Austin",896,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.26759","-97.74299",207,3.32
+"Bullfrog Pond*, Austin, TX","Bullfrog Pond*","Austin",896,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.26759","-97.74299",207,3.32
+"Bullfrog Pond*, Austin, TX","Bullfrog Pond*","Austin",896,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.26759","-97.74299",207,3.32
+"Bullfrog Pond*, Austin, TX","Bullfrog Pond*","Austin",896,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.26759","-97.74299",207,3.32
+"Burke-Crenshaw Lake*, Pasadena, TX","Burke-Crenshaw Lake*","Pasadena",2400,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.63765","-95.15609",273,4.22
+"Burke-Crenshaw Lake*, Pasadena, TX","Burke-Crenshaw Lake*","Pasadena",2400,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.63765","-95.15609",273,4.22
+"Burke-Crenshaw Lake*, Pasadena, TX","Burke-Crenshaw Lake*","Pasadena",2400,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.63765","-95.15609",273,4.22
+"Burke-Crenshaw Lake*, Pasadena, TX","Burke-Crenshaw Lake*","Pasadena",2400,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.63765","-95.15609",273,4.22
+"Burke-Crenshaw Lake*, Pasadena, TX","Burke-Crenshaw Lake*","Pasadena",2400,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.63765","-95.15609",273,4.22
+"Burke-Crenshaw Lake*, Pasadena, TX","Burke-Crenshaw Lake*","Pasadena",2400,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.63765","-95.15609",273,4.22
+"Burke-Crenshaw Lake*, Pasadena, TX","Burke-Crenshaw Lake*","Pasadena",2400,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.63765","-95.15609",273,4.22
+"Burke-Crenshaw Lake*, Pasadena, TX","Burke-Crenshaw Lake*","Pasadena",2400,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.63765","-95.15609",273,4.22
+"Burroughs Park, Tomball, TX","Burroughs Park","Tomball",1431,"date1","01/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.08686","-95.6329",242,3.7
+"Cal Young Park Lake, Abilene, TX","Cal Young Park Lake","Abilene",2876,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.44022","-99.71423",187,2.9
+"Cal Young Park Lake, Abilene, TX","Cal Young Park Lake","Abilene",2876,"date2","01/12/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.44022","-99.71423",187,2.9
+"Cal Young Park Lake, Abilene, TX","Cal Young Park Lake","Abilene",2876,"date3","02/04/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.44022","-99.71423",187,2.9
+"Camp Mabry, Austin, TX","Camp Mabry","Austin",2000,"date1","01/19/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.31007","-97.76038",206,3.33
+"Canyon Southeast Park Lake, Canyon, TX","Canyon Southeast Park Lake","Canyon",1666,"date1","12/12/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Canyon Southeast Park Lake, Canyon, TX","Canyon Southeast Park Lake","Canyon",1666,"date2","01/15/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Canyon Tailrace (Guadalupe River), New Braunfels, TX","Canyon Tailrace (Guadalupe River)","New Braunfels",20498,"date1","12/06/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.65418","-98.07547",258,4.11
+"Canyon Tailrace (Guadalupe River), New Braunfels, TX","Canyon Tailrace (Guadalupe River)","New Braunfels",20498,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.65418","-98.07547",258,4.11
+"Canyon Tailrace (Guadalupe River), New Braunfels, TX","Canyon Tailrace (Guadalupe River)","New Braunfels",20498,"date3","12/20/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.65418","-98.07547",258,4.11
+"Canyon Tailrace (Guadalupe River), New Braunfels, TX","Canyon Tailrace (Guadalupe River)","New Braunfels",20498,"date4","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.65418","-98.07547",258,4.11
+"Canyon Tailrace (Guadalupe River), New Braunfels, TX","Canyon Tailrace (Guadalupe River)","New Braunfels",20498,"date5","01/03/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.65418","-98.07547",258,4.11
+"Canyon Tailrace (Guadalupe River), New Braunfels, TX","Canyon Tailrace (Guadalupe River)","New Braunfels",20498,"date6","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.65418","-98.07547",258,4.11
+"Canyon Tailrace (Guadalupe River), New Braunfels, TX","Canyon Tailrace (Guadalupe River)","New Braunfels",20498,"date7","01/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.65418","-98.07547",258,4.11
+"Canyon Tailrace (Guadalupe River), New Braunfels, TX","Canyon Tailrace (Guadalupe River)","New Braunfels",20498,"date8","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.65418","-98.07547",258,4.11
+"Canyon Tailrace (Guadalupe River), New Braunfels, TX","Canyon Tailrace (Guadalupe River)","New Braunfels",20498,"date9","01/31/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.65418","-98.07547",258,4.11
+"Carl Barton Jr. Park Pond, Conroe, TX","Carl Barton Jr. Park Pond","Conroe",2500,"date1","01/02/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Carl Barton Jr. Park Pond, Conroe, TX","Carl Barton Jr. Park Pond","Conroe",2500,"date2","02/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Carl Levin City Park Pond, Harker Heights, TX","Carl Levin City Park Pond","Harker Heights",350,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.08852","-97.66021",160,2.58
+"Caruth Park, University Park, TX","Caruth Park","University Park",1000,"date1","12/03/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.85922","-96.79217",8,0.29
+"Caruth Park, University Park, TX","Caruth Park","University Park",1000,"date2","01/22/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.85922","-96.79217",8,0.29
+"Carver Park Lake, Texas City, TX","Carver Park Lake","Texas City",500,"date1","01/28/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.38334","-94.98367",289,4.53
+"Caudle, Hale Center, TX","Caudle","Hale Center",1200,"date1","12/08/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","34.06436","-101.84434",348,5.68
+"Cedar Hill State Park Perch Pond, Cedar Hill, TX","Cedar Hill State Park Perch Pond","Cedar Hill",1250,"date1","01/15/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.61503","-96.93599",28,0.62
+"Cedar Hill State Park Perch Pond, Cedar Hill, TX","Cedar Hill State Park Perch Pond","Cedar Hill",1250,"date2","02/04/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.61503","-96.93599",28,0.62
+"Centennial Park Pond, Pearland, TX","Centennial Park Pond","Pearland",1650,"date1","01/22/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.52843","-95.33728",272,4.28
+"Central Park Pond #1*, College Station, TX","Central Park Pond #1*","College Station",1792,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.61446","-96.29772",194,3.05
+"Central Park Pond #1*, College Station, TX","Central Park Pond #1*","College Station",1792,"date2","12/12/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.61446","-96.29772",194,3.05
+"Central Park Pond #1*, College Station, TX","Central Park Pond #1*","College Station",1792,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.61446","-96.29772",194,3.05
+"Central Park Pond #1*, College Station, TX","Central Park Pond #1*","College Station",1792,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.61446","-96.29772",194,3.05
+"Central Park Pond #1*, College Station, TX","Central Park Pond #1*","College Station",1792,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.61446","-96.29772",194,3.05
+"Central Park Pond #1*, College Station, TX","Central Park Pond #1*","College Station",1792,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.61446","-96.29772",194,3.05
+"Central Park Pond #1*, College Station, TX","Central Park Pond #1*","College Station",1792,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.61446","-96.29772",194,3.05
+"Central Park Pond #1*, College Station, TX","Central Park Pond #1*","College Station",1792,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.61446","-96.29772",194,3.05
+"Chandler Park, Mansfield, TX","Chandler Park","Mansfield",400,"date1","12/04/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","40.76249","-82.52948",1110,16.83
+"Chris Burkett Service Center Pond, Mansfield, TX","Chris Burkett Service Center Pond","Mansfield",100,"date1","12/12/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"C. J. Kelly Park Pond, Midland, TX","C. J. Kelly Park Pond","Midland",1500,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.98464","-102.10831",342,5.13
+"C. J. Kelly Park Pond, Midland, TX","C. J. Kelly Park Pond","Midland",1500,"date2","01/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.98464","-102.10831",342,5.13
+"C. J. Kelly Park Pond, Midland, TX","C. J. Kelly Park Pond","Midland",1500,"date3","02/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.98464","-102.10831",342,5.13
+"Claiborne West Park, Vidor, TX","Claiborne West Park","Vidor",1000,"date1","01/13/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.13285","-94.00261",306,4.98
+"Claiborne West Park, Vidor, TX","Claiborne West Park","Vidor",1000,"date2","02/04/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.13285","-94.00261",306,4.98
+"Cleburne-Hulen Park, Cleburne, TX","Cleburne-Hulen Park","Cleburne",1300,"date1","01/19/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.35716","-97.37881",62,1.31
+"Comanche Trails, Big Spring, TX","Comanche Trails","Big Spring",4000,"date1","12/03/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.29162","-101.31838",286,4.3
+"Comanche Trails, Big Spring, TX","Comanche Trails","Big Spring",4000,"date2","01/13/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.29162","-101.31838",286,4.3
+"Comanche Trails Park, Odessa, TX","Comanche Trails Park","Odessa",3500,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.83554","-102.55647",375,5.63
+"Comanche Trails Park, Odessa, TX","Comanche Trails Park","Odessa",3500,"date2","01/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.83554","-102.55647",375,5.63
+"Comanche Trails Park, Odessa, TX","Comanche Trails Park","Odessa",3500,"date3","02/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.83554","-102.55647",375,5.63
+"Comanche Trails Park, Odessa, TX","Comanche Trails Park","Odessa",3500,"date4","03/03/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.83554","-102.55647",375,5.63
+"Copperas Cove City, Copperas Cove, TX","Copperas Cove City","Copperas Cove",1000,"date1","12/12/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.13401","-97.8863",178,2.92
+"Copperas Cove City, Copperas Cove, TX","Copperas Cove City","Copperas Cove",1000,"date2","02/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.13401","-97.8863",178,2.92
+"Crane County Pond, Crane, TX","Crane County Pond","Crane",1000,"date1","12/05/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.40444","-102.36114",388,5.84
+"Crane County Pond, Crane, TX","Crane County Pond","Crane",1000,"date2","01/14/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.40444","-102.36114",388,5.84
+"Cy Miller Pond, College Station, TX","Cy Miller Pond","College Station",828,"date1","01/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.62055","-96.3259",194,3.1
+"Daingerfield State Park, Daingerfield, TX","Daingerfield State Park","Daingerfield",4000,"date1","01/19/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.03158","-94.72595",138,2.2
+"Davidson Creek Pond #1, Caldwell, TX","Davidson Creek Pond #1","Caldwell",500,"date1","02/05/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.53597","-96.68756",187,3.25
+"Dennis Johnston Park, Spring, TX","Dennis Johnston Park","Spring",1428,"date1","01/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Doornbos Park, Nederland, TX","Doornbos Park","Nederland",500,"date1","02/23/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.97992","-93.99642",311,5.11
+"Dow Park Pool, Deer Park, TX","Dow Park Pool","Deer Park",500,"date1","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.68451","-95.12017",271,4.25
+"Earl Scott Pond, San Antonio, TX","Earl Scott Pond","San Antonio",650,"date1","01/29/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.45581","-98.44804",281,4.56
+"Eisenhower Park Pond, Houston, TX","Eisenhower Park Pond","Houston",3600,"date1","01/13/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.67965","-95.34847",260,4.03
+"Elder Lake, Kilgore, TX","Elder Lake","Kilgore",2892,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.41416","-94.82619",129,1.98
+"Eldridge Park Pond, Sugar Land, TX","Eldridge Park Pond","Sugar Land",700,"date1","01/22/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.659","-95.61978",271,4.22
+"Elm Creek Buffalo Wallow, Abilene, TX","Elm Creek Buffalo Wallow","Abilene",450,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.5246","-99.71939",190,2.92
+"Elm Creek Buffalo Wallow, Abilene, TX","Elm Creek Buffalo Wallow","Abilene",450,"date2","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.5246","-99.71939",190,2.92
+"Elm Creek Buffalo Wallow, Abilene, TX","Elm Creek Buffalo Wallow","Abilene",450,"date3","02/04/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.5246","-99.71939",190,2.92
+"Elmer W. Oliver Nature Park, Mansfield, TX","Elmer W. Oliver Nature Park","Mansfield",350,"date1","12/12/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Emory City Park Lake, Emory, TX","Emory City Park Lake","Emory",250,"date1","02/19/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.87482","-95.76523",79,1.42
+"Evergreen Pond 2, Baytown, TX","Evergreen Pond 2","Baytown",500,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.7121859","-94.9817011",278,4.28
+"Faulkner Park Lake, Tyler, TX","Faulkner Park Lake","Tyler",1900,"date1","11/26/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.31842","-95.2758",107,1.82
+"Faulkner Park Lake, Tyler, TX","Faulkner Park Lake","Tyler",1900,"date2","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.31842","-95.2758",107,1.82
+"First Capitol Park Pond, West Columbia, TX","First Capitol Park Pond","West Columbia",500,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.14358","-95.64408",307,4.8
+"Fischer Park Pond 1, New Braunfels, TX","Fischer Park Pond 1","New Braunfels",420,"date1","12/05/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.71562","-98.07405",252,4.03
+"Fort Boggy State Park, Centerville, TX","Fort Boggy State Park","Centerville",2600,"date1","03/01/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.25799","-95.97831",136,2.08
+"Fort Griffin State Historic Site, Pond 1, Abilene, TX","Fort Griffin State Historic Site, Pond 1","Abilene",1050,"date1","12/15/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Fort Griffin State Historic Site, Pond 1, Abilene, TX","Fort Griffin State Historic Site, Pond 1","Abilene",1050,"date2","01/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Fort Griffin State Historic Site, Pond 1, Abilene, TX","Fort Griffin State Historic Site, Pond 1","Abilene",1050,"date3","02/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Fort Park State Park (Springfield), Mexia, TX","Fort Park State Park (Springfield)","Mexia",1000,"date1","01/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.66204","-96.49919",99,1.67
+"Fort Richardson State Park, Jacksboro, TX","Fort Richardson State Park","Jacksboro",2507,"date1","12/15/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.21718","-98.16631",97,1.77
+"Fort Richardson State Park, Jacksboro, TX","Fort Richardson State Park","Jacksboro",2507,"date2","01/12/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.21718","-98.16631",97,1.77
+"Fort Richardson State Park, Jacksboro, TX","Fort Richardson State Park","Jacksboro",2507,"date3","02/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.21718","-98.16631",97,1.77
+"Frisco Commons Pond, Frisco, TX","Frisco Commons Pond","Frisco",3500,"date1","02/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.12233","-96.809",17,0.37
+"Frontier Park Pond, Prosper, TX","Frontier Park Pond","Prosper",2640,"date1","02/23/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.26252","-96.7672",29,0.59
+"Garner State Park (Frio River), Leakey, TX","Garner State Park (Frio River)","Leakey",2500,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.72478","-99.76305",360,5.8
+"Garner State Park (Frio River), Leakey, TX","Garner State Park (Frio River)","Leakey",2500,"date2","02/15/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.72478","-99.76305",360,5.8
+"Glen Rose Town Lake, Glen Rose, TX","Glen Rose Town Lake","Glen Rose",2800,"date1","12/04/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.23461","-97.75542",93,1.68
+"Glen Rose Town Lake, Glen Rose, TX","Glen Rose Town Lake","Glen Rose",2800,"date2","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.23461","-97.75542",93,1.68
+"Graham Park Pond, Greenville, TX","Graham Park Pond","Greenville",2500,"date1","02/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.0881","-98.57247",127,2.31
+"Greenbriar Park*, Fort Worth, TX","Greenbriar Park*","Fort Worth",1896,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65711","-97.40982",49,0.95
+"Greenbriar Park*, Fort Worth, TX","Greenbriar Park*","Fort Worth",1896,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65711","-97.40982",49,0.95
+"Greenbriar Park*, Fort Worth, TX","Greenbriar Park*","Fort Worth",1896,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65711","-97.40982",49,0.95
+"Greenbriar Park*, Fort Worth, TX","Greenbriar Park*","Fort Worth",1896,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65711","-97.40982",49,0.95
+"Greenbriar Park*, Fort Worth, TX","Greenbriar Park*","Fort Worth",1896,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65711","-97.40982",49,0.95
+"Greenbriar Park*, Fort Worth, TX","Greenbriar Park*","Fort Worth",1896,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65711","-97.40982",49,0.95
+"Greenbriar Park*, Fort Worth, TX","Greenbriar Park*","Fort Worth",1896,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65711","-97.40982",49,0.95
+"Greenbriar Park*, Fort Worth, TX","Greenbriar Park*","Fort Worth",1896,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65711","-97.40982",49,0.95
+"Guadalupe River State Park (Guadalupe River), Spring Branch, TX","Guadalupe River State Park (Guadalupe River)","Spring Branch",1250,"date1","01/04/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","25.67699","-100.26603",583,10.06
+"Harlingen Sports Complex, Harlingen, TX","Harlingen Sports Complex","Harlingen",1000,"date1","01/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","26.21647","-97.61556",538,8.3
+"Hart Pundt Lake, Spring, TX","Hart Pundt Lake","Spring",1428,"date1","01/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.18706","-95.48517",222,3.37
+"Haskell City Park Pond, Haskell, TX","Haskell City Park Pond","Haskell",150,"date1","01/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.15759","-99.73334",200,3.44
+"Hearne Eastside Park Pond, Hearne, TX","Hearne Eastside Park Pond","Hearne",1000,"date1","02/22/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.87233","-96.59884",159,2.78
+"Heritage Park, Flower Mound, TX","Heritage Park","Flower Mound",375,"date1","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.99358","-97.07045",20,0.45
+"Heritage Park Lake, Mt. Pleasant, TX","Heritage Park Lake","Mt. Pleasant",1000,"date1","12/17/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","40.21387","-79.53243",1241,18.92
+"Herman Brown Park Pond, Houston, TX","Herman Brown Park Pond","Houston",500,"date1","01/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.82926","-95.27591",255,3.94
+"Herman Little Pond*, Spring, TX","Herman Little Pond*","Spring",1896,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Herman Little Pond*, Spring, TX","Herman Little Pond*","Spring",1896,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Herman Little Pond*, Spring, TX","Herman Little Pond*","Spring",1896,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Herman Little Pond*, Spring, TX","Herman Little Pond*","Spring",1896,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Herman Little Pond*, Spring, TX","Herman Little Pond*","Spring",1896,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Herman Little Pond*, Spring, TX","Herman Little Pond*","Spring",1896,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Herman Little Pond*, Spring, TX","Herman Little Pond*","Spring",1896,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Herman Little Pond*, Spring, TX","Herman Little Pond*","Spring",1896,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Holland Lake Park, Weatherford, TX","Holland Lake Park","Weatherford",2000,"date1","12/06/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.74096","-97.7741",65,1.15
+"Holland Lake Park, Weatherford, TX","Holland Lake Park","Weatherford",2000,"date2","01/03/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.74096","-97.7741",65,1.15
+"Holland Lake Park, Weatherford, TX","Holland Lake Park","Weatherford",2000,"date3","02/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.74096","-97.7741",65,1.15
+"Hurst Chisholm Park*, Hurst, TX","Hurst Chisholm Park*","Hurst",1896,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.85588","-97.1761",28,0.61
+"Hurst Chisholm Park*, Hurst, TX","Hurst Chisholm Park*","Hurst",1896,"date2","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.85588","-97.1761",28,0.61
+"Hurst Chisholm Park*, Hurst, TX","Hurst Chisholm Park*","Hurst",1896,"date3","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.85588","-97.1761",28,0.61
+"Hurst Chisholm Park*, Hurst, TX","Hurst Chisholm Park*","Hurst",1896,"date4","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.85588","-97.1761",28,0.61
+"Jasper City Park Pond, Jasper, TX","Jasper City Park Pond","Jasper",1800,"date1","01/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.92626","-94.01132",244,4.2
+"John Crompton Park Pond, College Station, TX","John Crompton Park Pond","College Station",500,"date1","01/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Johnson Branch 2, Valley View, TX","Johnson Branch 2","Valley View",500,"date1","12/04/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.2536567","-98.2615562",243,4
+"Jones Creek Ranch Park, Richmond, TX","Jones Creek Ranch Park","Richmond",1000,"date1","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.61993","-95.70447",281,4.32
+"Josey Ranch Park South Pond, Carrollton, TX","Josey Ranch Park South Pond","Carrollton",1000,"date1","12/17/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.006","-96.88626",11,0.35
+"Keneteso Pond, Gainesville, TX","Keneteso Pond","Gainesville",2500,"date1","01/12/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.62427","-97.14302",64,1.06
+"Kickerillo-Mischer, Houston, TX","Kickerillo-Mischer","Houston",1071,"date1","01/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.76492","-95.6008",261,4.06
+"Kingfisher Lake*, Austin, TX","Kingfisher Lake*","Austin",1792,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.90581","-96.48928",249,4.16
+"Kingfisher Lake*, Austin, TX","Kingfisher Lake*","Austin",1792,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.90581","-96.48928",249,4.16
+"Kingfisher Lake*, Austin, TX","Kingfisher Lake*","Austin",1792,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.90581","-96.48928",249,4.16
+"Kingfisher Lake*, Austin, TX","Kingfisher Lake*","Austin",1792,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.90581","-96.48928",249,4.16
+"Kingfisher Lake*, Austin, TX","Kingfisher Lake*","Austin",1792,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.90581","-96.48928",249,4.16
+"Kingfisher Lake*, Austin, TX","Kingfisher Lake*","Austin",1792,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.90581","-96.48928",249,4.16
+"Kingfisher Lake*, Austin, TX","Kingfisher Lake*","Austin",1792,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.90581","-96.48928",249,4.16
+"Kingfisher Lake*, Austin, TX","Kingfisher Lake*","Austin",1792,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.90581","-96.48928",249,4.16
+"King Kennedy Memorial Park, Kendleton, TX","King Kennedy Memorial Park","Kendleton",850,"date1","01/03/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.46019","-96.00488",299,4.62
+"Kitty Hollow Lake, Missouri City, TX","Kitty Hollow Lake","Missouri City",1000,"date1","01/03/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.55296","-95.5335",277,4.29
+"Kleberg-Rylie Recreation Center, Dallas, TX","Kleberg-Rylie Recreation Center","Dallas",1400,"date1","01/22/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.69048","-96.63715",25,0.55
+"Kosse City Park Pond, Kosse, TX","Kosse City Park Pond","Kosse",700,"date1","12/10/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.30758","-96.63166",125,2.15
+"Lady Bird (Municipal Park), Fredericksburg, TX","Lady Bird (Municipal Park)","Fredericksburg",200,"date1","01/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.23952","-98.91029",276,4.82
+"Lake Corpus Christi, Mathis, TX","Lake Corpus Christi","Mathis",2200,"date1","01/27/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","27.80032","-97.40257",424,6.48
+"Lake Friendswood - Centennial Park, Friendswood, TX","Lake Friendswood - Centennial Park","Friendswood",500,"date1","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.52952","-95.20124",274,4.31
+"Lake Fryer, Perryton, TX","Lake Fryer","Perryton",2000,"date1","12/05/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","36.39941","-100.8027",395,6.49
+"Lake Fryer, Perryton, TX","Lake Fryer","Perryton",2000,"date2","01/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","36.39941","-100.8027",395,6.49
+"Lake Melton, Sulphur Springs, TX","Lake Melton","Sulphur Springs",602,"date1","01/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","36.483","-94.45767",328,5.65
+"Lakeside Park*, Duncanville, TX","Lakeside Park*","Duncanville",1896,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65878","-96.92147",26,0.56
+"Lakeside Park*, Duncanville, TX","Lakeside Park*","Duncanville",1896,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65878","-96.92147",26,0.56
+"Lakeside Park*, Duncanville, TX","Lakeside Park*","Duncanville",1896,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65878","-96.92147",26,0.56
+"Lakeside Park*, Duncanville, TX","Lakeside Park*","Duncanville",1896,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65878","-96.92147",26,0.56
+"Lakeside Park*, Duncanville, TX","Lakeside Park*","Duncanville",1896,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65878","-96.92147",26,0.56
+"Lakeside Park*, Duncanville, TX","Lakeside Park*","Duncanville",1896,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65878","-96.92147",26,0.56
+"Lakeside Park*, Duncanville, TX","Lakeside Park*","Duncanville",1896,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65878","-96.92147",26,0.56
+"Lakeside Park*, Duncanville, TX","Lakeside Park*","Duncanville",1896,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65878","-96.92147",26,0.56
+"Lakeside Park Pond, Nacogdoches, TX","Lakeside Park Pond","Nacogdoches",769,"date1","01/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.60868","-94.63365",190,3.11
+"Lamesa 9th Street Park Lake, Lamesa, TX","Lamesa 9th Street Park Lake","Lamesa",4000,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.73889","-101.96435",332,5.12
+"Lamesa 9th Street Park Lake, Lamesa, TX","Lamesa 9th Street Park Lake","Lamesa",4000,"date2","01/29/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.73889","-101.96435",332,5.12
+"Landmark Inn State Historical Site (Mill Tailrace), Castroville, TX","Landmark Inn State Historical Site (Mill Tailrace)","Castroville",1000,"date1","02/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.35685","-98.8715",309,4.94
+"L.B.J. State Park, Fredericksburg, TX","L.B.J. State Park","Fredericksburg",533,"date1","01/03/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.27499","-98.87211",273,4.69
+"Lewisville Tailrace (Elm Fork Trinity River), Lewisville, TX","Lewisville Tailrace (Elm Fork Trinity River)","Lewisville",3100,"date1","01/15/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Lewisville Tailrace (Elm Fork Trinity River), Lewisville, TX","Lewisville Tailrace (Elm Fork Trinity River)","Lewisville",3100,"date2","02/18/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Linda Spurlock Park, North Richland Hills, TX","Linda Spurlock Park","North Richland Hills",400,"date1","02/27/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.88546","-97.23445",33,0.74
+"Live Oak City, San Antonio, TX","Live Oak City","San Antonio",1150,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.42669","-98.48062",285,4.54
+"Live Oak City, San Antonio, TX","Live Oak City","San Antonio",1150,"date2","01/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.42669","-98.48062",285,4.54
+"Live Oak City, San Antonio, TX","Live Oak City","San Antonio",1150,"date3","01/15/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.42669","-98.48062",285,4.54
+"Llano at James Crossing (Hwy 2389), Mason, TX","Llano at James Crossing (Hwy 2389)","Mason",2500,"date1","12/07/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Llano at James Crossing (Hwy 2389), Mason, TX","Llano at James Crossing (Hwy 2389)","Mason",2500,"date2","01/29/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Llano River (Castell downstream), Llano, TX","Llano River (Castell downstream)","Llano",2400,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.70497","-98.9576",254,4.32
+"LNVA Barrier Pond, Beaumont, TX","LNVA Barrier Pond","Beaumont",3500,"date1","12/12/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.0411","-94.17448",300,4.95
+"LNVA Barrier Pond, Beaumont, TX","LNVA Barrier Pond","Beaumont",3500,"date2","01/23/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.0411","-94.17448",300,4.95
+"Lobo Lake, Levelland, TX","Lobo Lake","Levelland",1600,"date1","12/03/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.59872","-102.33136",380,5.81
+"Lost Maples State Park - Lower, Vanderpool, TX","Lost Maples State Park - Lower","Vanderpool",500,"date1","01/28/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.75733","-99.56277",359,5.93
+"Louise Hays Park, Kerrville, TX","Louise Hays Park","Kerrville",2400,"date1","12/19/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.04392","-99.14313",297,5.25
+"Louise Hays Park, Kerrville, TX","Louise Hays Park","Kerrville",2400,"date2","01/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.04392","-99.14313",297,5.25
+"Magnolia Ridge Pond (Town Bluff Project), Woodville, TX","Magnolia Ridge Pond (Town Bluff Project)","Woodville",1700,"date1","12/04/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.78893","-94.18444",259,4.19
+"Mark McGrath Park Pond, Meadows Place, TX","Mark McGrath Park Pond","Meadows Place",1100,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.63227","-95.53721",269,4.14
+"Marvin Finn Pond-Sammons Park #2, Temple, TX","Marvin Finn Pond-Sammons Park #2","Temple",300,"date1","12/08/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.09748","-97.34303",142,2.32
+"Mary Jo Peckham Park*, Houston, TX","Mary Jo Peckham Park*","Houston",3160,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.77519","-95.34658",252,3.86
+"Mary Jo Peckham Park*, Houston, TX","Mary Jo Peckham Park*","Houston",3160,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.77519","-95.34658",252,3.86
+"Mary Jo Peckham Park*, Houston, TX","Mary Jo Peckham Park*","Houston",3160,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.77519","-95.34658",252,3.86
+"Mary Jo Peckham Park*, Houston, TX","Mary Jo Peckham Park*","Houston",3160,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.77519","-95.34658",252,3.86
+"Mary Jo Peckham Park*, Houston, TX","Mary Jo Peckham Park*","Houston",3160,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.77519","-95.34658",252,3.86
+"Mary Jo Peckham Park*, Houston, TX","Mary Jo Peckham Park*","Houston",3160,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.77519","-95.34658",252,3.86
+"Mary Jo Peckham Park*, Houston, TX","Mary Jo Peckham Park*","Houston",3160,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.77519","-95.34658",252,3.86
+"Mary Jo Peckham Park*, Houston, TX","Mary Jo Peckham Park*","Houston",3160,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.77519","-95.34658",252,3.86
+"Medical Center South*, Amarillo, TX","Medical Center South*","Amarillo",4424,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.20782","-101.89632",362,6
+"Medical Center South*, Amarillo, TX","Medical Center South*","Amarillo",4424,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.20782","-101.89632",362,6
+"Medical Center South*, Amarillo, TX","Medical Center South*","Amarillo",4424,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.20782","-101.89632",362,6
+"Medical Center South*, Amarillo, TX","Medical Center South*","Amarillo",4424,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.20782","-101.89632",362,6
+"Medical Center South*, Amarillo, TX","Medical Center South*","Amarillo",4424,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.20782","-101.89632",362,6
+"Medical Center South*, Amarillo, TX","Medical Center South*","Amarillo",4424,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.20782","-101.89632",362,6
+"Medical Center South*, Amarillo, TX","Medical Center South*","Amarillo",4424,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.20782","-101.89632",362,6
+"Medical Center South*, Amarillo, TX","Medical Center South*","Amarillo",4424,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.20782","-101.89632",362,6
+"Meridian State Park, Meridian, TX","Meridian State Park","Meridian",2000,"date1","01/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.84407","-97.24704",238,3.76
+"Mesquite City Lake*, Mesquite, TX","Mesquite City Lake*","Mesquite",3160,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.76882","-96.60035",19,0.45
+"Mesquite City Lake*, Mesquite, TX","Mesquite City Lake*","Mesquite",3160,"date2","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.76882","-96.60035",19,0.45
+"Mesquite City Lake*, Mesquite, TX","Mesquite City Lake*","Mesquite",3160,"date3","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.76882","-96.60035",19,0.45
+"Mesquite City Lake*, Mesquite, TX","Mesquite City Lake*","Mesquite",3160,"date4","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.76882","-96.60035",19,0.45
+"Meyer Park Pond, Harris, TX","Meyer Park Pond","Harris",1071,"date1","01/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.68443","-95.45574",261,4.03
+"Mike Lewis Park, Grand Prairie, TX","Mike Lewis Park","Grand Prairie",2500,"date1","01/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65226","-97.03007",30,0.62
+"Mike Lewis Park, Grand Prairie, TX","Mike Lewis Park","Grand Prairie",2500,"date2","02/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.65226","-97.03007",30,0.62
+"Miller Park Pond, Temple, TX","Miller Park Pond","Temple",1150,"date1","12/08/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.11326","-97.33871",140,2.28
+"Miller Park Pond, Temple, TX","Miller Park Pond","Temple",1150,"date2","03/01/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.11326","-97.33871",140,2.28
+"Miller's Pond*, San Antonio, TX","Miller's Pond*","San Antonio",3792,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.52479","-98.34985",274,4.37
+"Miller's Pond*, San Antonio, TX","Miller's Pond*","San Antonio",3792,"date2","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.52479","-98.34985",274,4.37
+"Miller's Pond*, San Antonio, TX","Miller's Pond*","San Antonio",3792,"date3","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.52479","-98.34985",274,4.37
+"Miller's Pond*, San Antonio, TX","Miller's Pond*","San Antonio",3792,"date4","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.52479","-98.34985",274,4.37
+"Missouri City C.P.L.*, Missouri City, TX","Missouri City C.P.L.*","Missouri City",1896,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.60498","-95.52873",272,4.21
+"Missouri City C.P.L.*, Missouri City, TX","Missouri City C.P.L.*","Missouri City",1896,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.60498","-95.52873",272,4.21
+"Missouri City C.P.L.*, Missouri City, TX","Missouri City C.P.L.*","Missouri City",1896,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.60498","-95.52873",272,4.21
+"Missouri City C.P.L.*, Missouri City, TX","Missouri City C.P.L.*","Missouri City",1896,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.60498","-95.52873",272,4.21
+"Missouri City C.P.L.*, Missouri City, TX","Missouri City C.P.L.*","Missouri City",1896,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.60498","-95.52873",272,4.21
+"Missouri City C.P.L.*, Missouri City, TX","Missouri City C.P.L.*","Missouri City",1896,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.60498","-95.52873",272,4.21
+"Missouri City C.P.L.*, Missouri City, TX","Missouri City C.P.L.*","Missouri City",1896,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.60498","-95.52873",272,4.21
+"Missouri City C.P.L.*, Missouri City, TX","Missouri City C.P.L.*","Missouri City",1896,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.60498","-95.52873",272,4.21
+"Monahans Perch Pond, Monahans, TX","Monahans Perch Pond","Monahans",2000,"date1","12/05/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.58885","-102.86782",393,5.83
+"Mont Belvieu City Park, Mont Belvieu, TX","Mont Belvieu City Park","Mont Belvieu",1500,"date1","01/26/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.74829","-95.00893",274,4.26
+"Murphy City Hall Pond, Murphy, TX","Murphy City Hall Pond","Murphy",4000,"date1","02/23/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.02619","-96.61242",17,0.51
+"Mustang Creek Park, Wasahachie, TX","Mustang Creek Park","Wasahachie",2000,"date1","12/02/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.40935","-96.83731",41,0.84
+"Mustang Creek Park, Wasahachie, TX","Mustang Creek Park","Wasahachie",2000,"date2","01/14/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.40935","-96.83731",41,0.84
+"Myers Park, Rockwall, TX","Myers Park","Rockwall",1400,"date1","01/29/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.83621","-96.48979",30,0.67
+"Nails Creek Pond #1, Somerville, TX","Nails Creek Pond #1","Somerville",500,"date1","12/17/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.33097","-96.64507",204,3.66
+"Nolan Creek, Belton, TX","Nolan Creek","Belton",1600,"date1","12/21/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.0902","-97.55302",156,2.53
+"Nolan Creek, Belton, TX","Nolan Creek","Belton",1600,"date2","12/28/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.0902","-97.55302",156,2.53
+"Nora Pond, Waco, TX","Nora Pond","Waco",2400,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57182","-97.14951",107,1.8
+"Nora Pond, Waco, TX","Nora Pond","Waco",2400,"date2","02/02/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.57182","-97.14951",107,1.8
+"Oakes Street*, San Angelo, TX","Oakes Street*","San Angelo",2656,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.45511","-100.43169",267,4.31
+"Oakes Street*, San Angelo, TX","Oakes Street*","San Angelo",2656,"date2","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.45511","-100.43169",267,4.31
+"Oakes Street*, San Angelo, TX","Oakes Street*","San Angelo",2656,"date3","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.45511","-100.43169",267,4.31
+"Oakes Street*, San Angelo, TX","Oakes Street*","San Angelo",2656,"date4","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.45511","-100.43169",267,4.31
+"Onion Creek - Upper Falls, Austin, TX","Onion Creek - Upper Falls","Austin",1500,"date1","02/02/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.13593","-97.78395",218,3.54
+"Palmetto State Park, Luling, TX","Palmetto State Park","Luling",1000,"date1","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.68044","-97.64685",251,3.93
+"Paluxy River at Dinosaur Valley SP, Glen Rose, TX","Paluxy River at Dinosaur Valley SP","Glen Rose",800,"date1","02/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Pampa City, Pampa City, TX","Pampa City","Pampa City",2000,"date1","12/10/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.53188","-100.95877",344,5.66
+"Pampa City, Pampa City, TX","Pampa City","Pampa City",2000,"date2","02/04/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.53188","-100.95877",344,5.66
+"Pear Trees Pond, Wills Point, TX","Pear Trees Pond","Wills Point",1000,"date1","02/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.70763","-96.00878",56,0.99
+"Peavine Pinion Pond, Sulphur Springs, TX","Peavine Pinion Pond","Sulphur Springs",2000,"date1","02/02/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.13796","-95.60289",83,1.38
+"Pebblebrook Community Park Pond, Sherman, TX","Pebblebrook Community Park Pond","Sherman",1570,"date1","03/01/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.60972","-96.63879",57,1.03
+"Pena Colorado, Marathon, TX","Pena Colorado","Marathon",334,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.38815","-100.86104",258,3.88
+"Pittsburg City Lake, Pittsburg, TX","Pittsburg City Lake","Pittsburg",2000,"date1","12/17/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","38.02679","-121.95091",1707,25.63
+"Pittsburg City Lake, Pittsburg, TX","Pittsburg City Lake","Pittsburg",2000,"date2","03/01/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","38.02679","-121.95091",1707,25.63
+"Plum Lake, Wichita Falls, TX","Plum Lake","Wichita Falls",1600,"date1","12/19/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.91429","-98.50329",134,2.25
+"Plum Lake, Wichita Falls, TX","Plum Lake","Wichita Falls",1600,"date2","01/30/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.91429","-98.50329",134,2.25
+"Plum Lake, Wichita Falls, TX","Plum Lake","Wichita Falls",1600,"date3","03/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.91429","-98.50329",134,2.25
+"Possum Kingdom Tailrace, Graford, TX","Possum Kingdom Tailrace","Graford",9000,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.87317","-98.45805",123,2.33
+"Possum Kingdom Tailrace, Graford, TX","Possum Kingdom Tailrace","Graford",9000,"date2","12/19/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.87317","-98.45805",123,2.33
+"Possum Kingdom Tailrace, Graford, TX","Possum Kingdom Tailrace","Graford",9000,"date3","01/02/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.87317","-98.45805",123,2.33
+"Possum Kingdom Tailrace, Graford, TX","Possum Kingdom Tailrace","Graford",9000,"date4","01/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.87317","-98.45805",123,2.33
+"Possum Kingdom Tailrace, Graford, TX","Possum Kingdom Tailrace","Graford",9000,"date5","01/30/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.87317","-98.45805",123,2.33
+"Possum Kingdom Tailrace, Graford, TX","Possum Kingdom Tailrace","Graford",9000,"date6","02/14/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.87317","-98.45805",123,2.33
+"Possum Kingdom Tailrace, Graford, TX","Possum Kingdom Tailrace","Graford",9000,"date7","02/27/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.87317","-98.45805",123,2.33
+"Pottsboro Lake, Pottsboro, TX","Pottsboro Lake","Pottsboro",1275,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.93238","-89.33004",550,8.54
+"Rheudasil Park, Flower Mound, TX","Rheudasil Park","Flower Mound",1250,"date1","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.99617","-97.07681",21,0.49
+"Richards Park - Upper, Brady, TX","Richards Park - Upper","Brady",1000,"date1","12/10/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.13704","-99.33399",233,3.83
+"Richards Park - Upper, Brady, TX","Richards Park - Upper","Brady",1000,"date2","01/15/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.13704","-99.33399",233,3.83
+"Rita Blanca Kids Fishing Pond, Dalhart, TX","Rita Blanca Kids Fishing Pond","Dalhart",2929,"date1","12/10/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","36.0439","-102.50115",438,7.2
+"Rita Blanca Kids Fishing Pond, Dalhart, TX","Rita Blanca Kids Fishing Pond","Dalhart",2929,"date2","02/04/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","36.0439","-102.50115",438,7.2
+"River Park Clear Fork of the Trinity River, Fort Worth, TX","River Park Clear Fork of the Trinity River","Fort Worth",3703,"date1","01/22/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"River Park Clear Fork of the Trinity River, Fort Worth, TX","River Park Clear Fork of the Trinity River","Fort Worth",3703,"date2","02/05/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Rose Park, Mansfield, TX","Rose Park","Mansfield",465,"date1","12/02/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.2015","-94.04629",308,5.13
+"Rowlett Community Park North Pond, Rowlett, TX","Rowlett Community Park North Pond","Rowlett",1000,"date1","12/18/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.88866","-96.56945",21,0.47
+"Ruddick Park, Colorado City, TX","Ruddick Park","Colorado City",400,"date1","12/12/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.38815","-100.86104",258,3.88
+"Ruddick Park, Colorado City, TX","Ruddick Park","Colorado City",400,"date2","01/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.38815","-100.86104",258,3.88
+"Seabourne Creek Park, Rosenberg, TX","Seabourne Creek Park","Rosenberg",1314,"date1","02/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.50327","-95.80408",286,4.44
+"Seymour Pond North, Seymour, TX","Seymour Pond North","Seymour",500,"date1","12/04/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.59264","-99.26034",170,2.95
+"Seymour Pond North, Seymour, TX","Seymour Pond North","Seymour",500,"date2","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.59264","-99.26034",170,2.95
+"Seymour Pond North, Seymour, TX","Seymour Pond North","Seymour",500,"date3","02/05/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.59264","-99.26034",170,2.95
+"Sheldon State Park Children's #1, Houston, TX","Sheldon State Park Children's #1","Houston",900,"date1","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.80466","-95.38904",249,3.82
+"Shirley McDonald Park Pond, Round Rock, TX","Shirley McDonald Park Pond","Round Rock",500,"date1","01/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX",NA,NA,0,0
+"Sonora Park, Kennedale, TX","Sonora Park","Kennedale",1600,"date1","01/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.64112","-97.2098",41,0.81
+"Sonora Park, Kennedale, TX","Sonora Park","Kennedale",1600,"date2","02/20/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.64112","-97.2098",41,0.81
+"South Lakes Park Pond*, Denton, TX","South Lakes Park Pond*","Denton",2400,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.1642","-97.10943",32,0.64
+"South Lakes Park Pond*, Denton, TX","South Lakes Park Pond*","Denton",2400,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.1642","-97.10943",32,0.64
+"South Lakes Park Pond*, Denton, TX","South Lakes Park Pond*","Denton",2400,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.1642","-97.10943",32,0.64
+"South Lakes Park Pond*, Denton, TX","South Lakes Park Pond*","Denton",2400,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.1642","-97.10943",32,0.64
+"South Lakes Park Pond*, Denton, TX","South Lakes Park Pond*","Denton",2400,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.1642","-97.10943",32,0.64
+"South Lakes Park Pond*, Denton, TX","South Lakes Park Pond*","Denton",2400,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.1642","-97.10943",32,0.64
+"South Lakes Park Pond*, Denton, TX","South Lakes Park Pond*","Denton",2400,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.1642","-97.10943",32,0.64
+"South Lakes Park Pond*, Denton, TX","South Lakes Park Pond*","Denton",2400,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.1642","-97.10943",32,0.64
+"South Llano River State Park, Junction, TX","South Llano River State Park","Junction",2200,"date1","12/20/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.52187","-99.84609",306,4.98
+"South Llano River State Park, Junction, TX","South Llano River State Park","Junction",2200,"date2","01/17/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","30.52187","-99.84609",306,4.98
+"Southside Lions Park (Hi-Lions)*, San Antonio, TX","Southside Lions Park (Hi-Lions)*","San Antonio",4744,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.40596","-98.42794",300,4.52
+"Southside Lions Park (Hi-Lions)*, San Antonio, TX","Southside Lions Park (Hi-Lions)*","San Antonio",4744,"date2","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.40596","-98.42794",300,4.52
+"Southside Lions Park (Hi-Lions)*, San Antonio, TX","Southside Lions Park (Hi-Lions)*","San Antonio",4744,"date3","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.40596","-98.42794",300,4.52
+"Southside Lions Park (Hi-Lions)*, San Antonio, TX","Southside Lions Park (Hi-Lions)*","San Antonio",4744,"date4","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.40596","-98.42794",300,4.52
+"South Weeks*, Wichita Falls, TX","South Weeks*","Wichita Falls",896,"date1","11/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.86748","-98.50043",134,2.24
+"South Weeks*, Wichita Falls, TX","South Weeks*","Wichita Falls",896,"date2","12/13/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.86748","-98.50043",134,2.24
+"South Weeks*, Wichita Falls, TX","South Weeks*","Wichita Falls",896,"date3","12/27/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.86748","-98.50043",134,2.24
+"South Weeks*, Wichita Falls, TX","South Weeks*","Wichita Falls",896,"date4","01/10/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.86748","-98.50043",134,2.24
+"South Weeks*, Wichita Falls, TX","South Weeks*","Wichita Falls",896,"date5","01/24/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.86748","-98.50043",134,2.24
+"South Weeks*, Wichita Falls, TX","South Weeks*","Wichita Falls",896,"date6","02/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.86748","-98.50043",134,2.24
+"South Weeks*, Wichita Falls, TX","South Weeks*","Wichita Falls",896,"date7","02/21/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.86748","-98.50043",134,2.24
+"South Weeks*, Wichita Falls, TX","South Weeks*","Wichita Falls",896,"date8","03/06/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.86748","-98.50043",134,2.24
+"Sports Complex Park, Waxahachie, TX","Sports Complex Park","Waxahachie",2000,"date1","12/02/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.40933","-96.81873",43,0.89
+"Sports Complex Park, Waxahachie, TX","Sports Complex Park","Waxahachie",2000,"date2","01/14/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.40933","-96.81873",43,0.89
+"Spring Lake Park, Texarkana, TX","Spring Lake Park","Texarkana",4100,"date1","12/19/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.3372","-94.09733",187,2.83
+"Spring Lake Park, Texarkana, TX","Spring Lake Park","Texarkana",4100,"date2","01/23/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.3372","-94.09733",187,2.83
+"Spring Lake Park, Texarkana, TX","Spring Lake Park","Texarkana",4100,"date3","02/22/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.3372","-94.09733",187,2.83
+"Stephenville Park Pond, Stephenville, TX","Stephenville Park Pond","Stephenville",1000,"date1","03/01/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.20767","-98.22324",118,2.05
+"Teague Park, Longview, TX","Teague Park","Longview",2500,"date1","02/23/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.49983","-94.72433",135,2.09
+"Theo (Caprock Canyon), Amarillo, TX","Theo (Caprock Canyon)","Amarillo",1600,"date1","12/11/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","35.06443","-101.81331",357,5.93
+"Tom Bass I, Houston, TX","Tom Bass I","Houston",1000,"date1","01/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.7757","-95.40099",253,3.87
+"Tom Bass III, Houston, TX","Tom Bass III","Houston",4750,"date1","01/02/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","29.7757","-95.40099",253,3.87
+"Towne Lake, McKinney, TX","Towne Lake","McKinney",5500,"date1","02/23/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.21727","-96.64063",26,0.55
+"Trinity Park Clear Fork Trinity River, Fort Worth, TX","Trinity Park Clear Fork Trinity River","Fort Worth",3703,"date1","01/07/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.74602","-97.35343",39,0.82
+"Trinity Park Clear Fork Trinity River, Fort Worth, TX","Trinity Park Clear Fork Trinity River","Fort Worth",3703,"date2","02/05/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.74602","-97.35343",39,0.82
+"Two - Acre Lake, Canton, TX","Two - Acre Lake","Canton",1000,"date1","12/04/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.56097","-95.74581",72,1.23
+"Tyler State Park, Tyler, TX","Tyler State Park","Tyler",2030,"date1","12/05/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.37107","-95.30078",103,1.66
+"Tyler State Park, Tyler, TX","Tyler State Park","Tyler",2030,"date2","01/16/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.37107","-95.30078",103,1.66
+"Waldron Park, Corpus Christi, TX","Waldron Park","Corpus Christi",1000,"date1","01/09/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","27.6454","-97.29682",437,6.73
+"Waskom City Pond, Waskom, TX","Waskom City Pond","Waskom",1000,"date1","12/17/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.47849","-94.056",172,2.57
+"Waskom City Pond, Waskom, TX","Waskom City Pond","Waskom",1000,"date2","02/18/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.47849","-94.056",172,2.57
+"Waterloo Park Pond, Denison, TX","Waterloo Park Pond","Denison",6255,"date1","12/12/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.74866","-96.56818",66,1.19
+"Waterloo Park Pond, Denison, TX","Waterloo Park Pond","Denison",6255,"date2","01/05/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.74866","-96.56818",66,1.19
+"Waterloo Park Pond, Denison, TX","Waterloo Park Pond","Denison",6255,"date3","02/02/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.74866","-96.56818",66,1.19
+"Waterloo Park Pond, Denison, TX","Waterloo Park Pond","Denison",6255,"date4","02/23/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","33.74866","-96.56818",66,1.19
+"Winchester Lake, Chandler, TX","Winchester Lake","Chandler",1000,"date1","12/14/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.29918","-95.48346",105,1.65
+"Winchester Lake, Chandler, TX","Winchester Lake","Chandler",1000,"date2","01/14/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.29918","-95.48346",105,1.65
+"W. M. Brook Park Lake, Lampasas, TX","W. M. Brook Park Lake","Lampasas",700,"date1","12/16/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","31.05611","-98.17158",194,3.15
+"Woldert Park Pond, Tyler, TX","Woldert Park Pond","Tyler",1700,"date1","11/26/19","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.3484","-95.30439",103,1.71
+"Woldert Park Pond, Tyler, TX","Woldert Park Pond","Tyler",1700,"date2","01/08/20","5881 preston view blvd dallas tx 75240",32.93538,-96.80598,"TX","32.3484","-95.30439",103,1.71
