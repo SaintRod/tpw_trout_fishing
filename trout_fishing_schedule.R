@@ -71,7 +71,7 @@ data.fm.narrow <- data.fm.narrow[!is.na(data.fm.narrow$value),]
 names(data.fm.narrow) <- c("stocking.location", "city","total","stocking date num","stocking date")
 
 ###create orig geocode
-orig_address <- "5881 preston view blvd dallas tx 75240"
+orig_address <- #enter address as a string
 data.fm.narrow$orig <- orig_address
 
 orig_geocode <- geocodeHERE_simple(orig_address, App_id=App_id, App_code = App_code)
